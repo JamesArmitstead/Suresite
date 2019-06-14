@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\Suresite\Suresite\bin\Debug\Suresite.exe.config
+C:\Users\James\source\repos\Suresite\Suresite\bin\Debug\Suresite.exe
+C:\Users\James\source\repos\Suresite\Suresite\bin\Debug\Suresite.pdb
+C:\Users\James\source\repos\Suresite\Suresite\obj\Debug\Suresite.csprojAssemblyReference.cache
+C:\Users\James\source\repos\Suresite\Suresite\obj\Debug\Suresite.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\Suresite\Suresite\obj\Debug\Suresite.exe
+C:\Users\James\source\repos\Suresite\Suresite\obj\Debug\Suresite.pdb
